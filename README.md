@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @berdiyor
 - 👀 I’m interested in coding, racing, fitness, and communicating with people
 - 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on HTML, CSS, and Javascript project
+- 💞️ Constantly learning
 - 📫 How to reach me gofurovberdiyor@gmail.com
 
 <!---
